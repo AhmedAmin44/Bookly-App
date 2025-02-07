@@ -49,6 +49,6 @@ class BestSellerListItem extends StatelessWidget {
           ),
         ],
       ),
-    );;
+    );
   }
 }
